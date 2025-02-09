@@ -1,0 +1,8 @@
+dat.sys/*
+!data.sys/.gitkeep 
+#Ignore dirs .hbmk, .sessions,...
+**/.hbmk/
+**/.sessions/
+**/.tmp/
+**/log/
+**/Samples/
